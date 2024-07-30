@@ -1,0 +1,4 @@
+bump:
+  file: lib/weird_phlex_mount/version.rb
+  skip_ci: true
+
